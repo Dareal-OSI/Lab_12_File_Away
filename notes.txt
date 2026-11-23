@@ -1,0 +1,5 @@
+Java programs can read and write text files.
+A JFileChooser lets the user pick the file to open.
+BufferedReader reads one line at a time,
+and split("\\s+") breaks each line into words.
+This file is used to test FileInspector.
